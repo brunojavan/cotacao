@@ -1,4 +1,3 @@
------------------------------------------------
 Script Cotação em Tempo Real (Yahoo! Finances)
 
 Autor: Bruno Javan
@@ -7,7 +6,6 @@ URL: www.brunojavan.com.br
 Versão: 0.290415 (Beta)
 Última Atualização: 29/04/2015
 Linguagem: JSON/jQuery
------------------------------------------------
 
 
 INSTRUÇÕES DE USO:
